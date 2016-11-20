@@ -1,0 +1,103 @@
+﻿Build started 18/07/2013 10:49:06.
+     1>Project "C:\Users\my\Desktop\עידן+\עידן\FMS_DLL\FMS_DLL.vcxproj" on node 3 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I../FMS_5773_200699452 /ZI /nologo /W3 /WX- /Od /Oy- /D _WINDLL /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt exportFunc.cpp
+         exportFunc.cpp
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(7): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(35): warning C4297: 'is_open' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(39): warning C4190: 'open_mode' has C-linkage specified, but returns UDT 'std::basic_string<_Elem,_Traits,_Alloc>' which is incompatible with C
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>,
+                     _Alloc=std::allocator<char>
+                 ]
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(48): warning C4297: 'open_mode' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(61): warning C4297: 'filename' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(74): warning C4297: 'OwnerName' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(87): warning C4297: 'CreationDate' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(101): warning C4297: 'FileSize' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(114): warning C4297: 'RecordSize' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(127): warning C4297: 'HashFuncID' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(140): warning C4297: 'NrOfRecsInFile' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(153): warning C4297: 'OverflowAreaStart' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(167): warning C4297: 'hcreate' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(179): warning C4297: 'hdelete' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(191): warning C4297: 'hopen' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(203): warning C4297: 'hclose' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(215): warning C4297: 'flush' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(227): warning C4297: 'seek_with_char_star' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(239): warning C4297: 'seek_with_int' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(251): warning C4297: 'read' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(263): warning C4297: 'readByStringKey' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(275): warning C4297: 'write' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(287): warning C4297: 'writeByStringKey' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(299): warning C4297: 'Check_If_Key_Is_In_This_Block' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(311): warning C4297: 'helpseek' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(323): warning C4297: 'Check_free_space_In_Block' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(335): warning C4297: 'helpwrite' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(347): warning C4297: 'Del_rec_Casing' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(359): warning C4297: 'Delrec' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(371): warning C4297: 'Press_Bloak' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(383): warning C4297: 'Press_Block_OV' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(395): warning C4297: 'Serch_key_by_hash' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(407): warning C4297: 'Update' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(419): warning C4297: 'updateoff' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(432): warning C4297: 'load_factor' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(37): warning C4715: 'is_open' : not all control paths return a value
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(301): warning C4715: 'Check_If_Key_Is_In_This_Block' : not all control paths return a value
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(325): warning C4715: 'Check_free_space_In_Block' : not all control paths return a value
+     1>c:\users\my\desktop\עידן+\עידן\fms_dll\exportfunc.cpp(397): warning C4715: 'Serch_key_by_hash' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\my\Desktop\עידן+\עידן\Debug\FMS_DLL.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\my\Desktop\עידן+\עידן\Debug\FMS_DLL.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\my\Desktop\עידן+\עידן\Debug\FMS_DLL.lib" /MACHINE:X86 /DLL Debug\exportFunc.obj
+         "C:\Users\my\Desktop\עידן+\עידן\Debug\FMS_5773_200699452.lib"
+            Creating library C:\Users\my\Desktop\עידן+\עידן\Debug\FMS_DLL.lib and object C:\Users\my\Desktop\עידן+\עידן\Debug\FMS_DLL.exp
+         FMS_DLL.vcxproj -> C:\Users\my\Desktop\עידן+\עידן\Debug\FMS_DLL.dll
+       PostBuildEvent:
+         copy "C:\Users\my\Desktop\עידן+\עידן\Debug\FMS_DLL.dll" "C:\Users\my\Desktop\עידן+\עידן\FMS_GUI.\bin\Debug"
+         :VCEnd
+                 1 file(s) copied.
+     1>Done Building Project "C:\Users\my\Desktop\עידן+\עידן\FMS_DLL\FMS_DLL.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.40

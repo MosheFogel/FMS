@@ -1,0 +1,5 @@
+C:\Users\guyava\Desktop\פרוייקט שלב 3\FMS_adapter\bin\Release\FMS_adapter.dll.config
+C:\Users\guyava\Desktop\פרוייקט שלב 3\FMS_adapter\bin\Release\FMS_adapter.dll
+C:\Users\guyava\Desktop\פרוייקט שלב 3\FMS_adapter\bin\Release\FMS_adapter.pdb
+C:\Users\guyava\Desktop\פרוייקט שלב 3\FMS_adapter\obj\Release\FMS_adapter.dll
+C:\Users\guyava\Desktop\פרוייקט שלב 3\FMS_adapter\obj\Release\FMS_adapter.pdb

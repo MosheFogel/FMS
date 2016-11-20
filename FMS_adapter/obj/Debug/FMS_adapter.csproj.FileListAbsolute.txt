@@ -1,0 +1,75 @@
+C:\Users\idan\Desktop\פרוייקט שלב  סופי 3\פרוייקט שלב 3\FMS_adapter\bin\Debug\FMS_adapter.exe.config
+C:\Users\idan\Desktop\פרוייקט שלב  סופי 3\פרוייקט שלב 3\FMS_adapter\bin\Debug\FMS_adapter.exe
+C:\Users\idan\Desktop\פרוייקט שלב  סופי 3\פרוייקט שלב 3\FMS_adapter\bin\Debug\FMS_adapter.pdb
+C:\Users\idan\Desktop\פרוייקט שלב  סופי 3\פרוייקט שלב 3\FMS_adapter\obj\Debug\FMS_adapter.exe
+C:\Users\idan\Desktop\פרוייקט שלב  סופי 3\פרוייקט שלב 3\FMS_adapter\obj\Debug\FMS_adapter.pdb
+C:\Users\idan\Desktop\פרוייקט שלב  סופי 3\פרוייקט שלב 3\FMS_adapter\obj\Debug\FMS_adapter.csprojResolveAssemblyReference.cache
+C:\Users\my\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\Aלב 4\פרוייקט שלב 3\FMS_adapter\bin\Debug\FMS_adapter.dll.config
+C:\Users\my\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\Aלב 4\פרוייקט שלב 3\FMS_adapter\bin\Debug\FMS_adapter.dll
+C:\Users\my\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\Aלב 4\פרוייקט שלב 3\FMS_adapter\bin\Debug\FMS_adapter.pdb
+C:\Users\my\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\Aלב 4\פרוייקט שלב 3\FMS_adapter\obj\Debug\FMS_adapter.csprojResolveAssemblyReference.cache
+C:\Users\my\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\Aלב 4\פרוייקט שלב 3\FMS_adapter\obj\Debug\FMS_adapter.dll
+C:\Users\my\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\Aלב 4\פרוייקט שלב 3\FMS_adapter\obj\Debug\FMS_adapter.pdb
+C:\Users\idan\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_adapter\bin\Debug\FMS_adapter.dll.config
+C:\Users\idan\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_adapter\bin\Debug\FMS_adapter.dll
+C:\Users\idan\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_adapter\bin\Debug\FMS_adapter.pdb
+C:\Users\idan\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_adapter\obj\Debug\FMS_adapter.dll
+C:\Users\idan\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_adapter\obj\Debug\FMS_adapter.pdb
+C:\Users\idan\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_adapter\obj\Debug\FMS_adapter.csprojResolveAssemblyReference.cache
+C:\Users\guyava\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_adapter\bin\Debug\FMS_adapter.dll.config
+C:\Users\guyava\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_adapter\bin\Debug\FMS_adapter.dll
+C:\Users\guyava\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_adapter\bin\Debug\FMS_adapter.pdb
+C:\Users\guyava\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_adapter\obj\Debug\FMS_adapter.dll
+C:\Users\guyava\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_adapter\obj\Debug\FMS_adapter.pdb
+C:\Users\אליהו עזריאל פולק\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_adapter\bin\Debug\FMS_adapter.dll.config
+C:\Users\אליהו עזריאל פולק\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_adapter\bin\Debug\FMS_adapter.dll
+C:\Users\אליהו עזריאל פולק\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_adapter\bin\Debug\FMS_adapter.pdb
+C:\Users\אליהו עזריאל פולק\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_adapter\obj\Debug\FMS_adapter.csprojResolveAssemblyReference.cache
+C:\Users\אליהו עזריאל פולק\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_adapter\obj\Debug\FMS_adapter.dll
+C:\Users\אליהו עזריאל פולק\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_adapter\obj\Debug\FMS_adapter.pdb
+C:\Users\my\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_adapter\bin\Debug\FMS_adapter.dll.config
+C:\Users\my\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_adapter\bin\Debug\FMS_adapter.dll
+C:\Users\my\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_adapter\bin\Debug\FMS_adapter.pdb
+C:\Users\my\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_adapter\obj\Debug\FMS_adapter.csprojResolveAssemblyReference.cache
+C:\Users\my\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_adapter\obj\Debug\FMS_adapter.dll
+C:\Users\my\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_adapter\obj\Debug\FMS_adapter.pdb
+C:\Users\guyava\Desktop\פרוייקט שלב 3\FMS_adapter\bin\Debug\FMS_adapter.dll.config
+C:\Users\guyava\Desktop\פרוייקט שלב 3\FMS_adapter\bin\Debug\FMS_adapter.dll
+C:\Users\guyava\Desktop\פרוייקט שלב 3\FMS_adapter\bin\Debug\FMS_adapter.pdb
+C:\Users\guyava\Desktop\פרוייקט שלב 3\FMS_adapter\obj\Debug\FMS_adapter.dll
+C:\Users\guyava\Desktop\פרוייקט שלב 3\FMS_adapter\obj\Debug\FMS_adapter.pdb
+C:\Users\אליהו עזריאל פולק\Desktop\עידן\FMS_adapter\bin\Debug\FMS_adapter.dll.config
+C:\Users\אליהו עזריאל פולק\Desktop\עידן\FMS_adapter\bin\Debug\FMS_adapter.dll
+C:\Users\אליהו עזריאל פולק\Desktop\עידן\FMS_adapter\bin\Debug\FMS_adapter.pdb
+C:\Users\אליהו עזריאל פולק\Desktop\עידן\FMS_adapter\obj\Debug\FMS_adapter.dll
+C:\Users\אליהו עזריאל פולק\Desktop\עידן\FMS_adapter\obj\Debug\FMS_adapter.pdb
+C:\Users\אליהו עזריאל פולק\Desktop\עידן\FMS_adapter\obj\Debug\FMS_adapter.csprojResolveAssemblyReference.cache
+C:\Users\my\Desktop\עידן\FMS_adapter\bin\Debug\FMS_adapter.dll.config
+C:\Users\my\Desktop\עידן\FMS_adapter\bin\Debug\FMS_adapter.dll
+C:\Users\my\Desktop\עידן\FMS_adapter\bin\Debug\FMS_adapter.pdb
+C:\Users\my\Desktop\עידן\FMS_adapter\obj\Debug\FMS_adapter.dll
+C:\Users\my\Desktop\עידן\FMS_adapter\obj\Debug\FMS_adapter.pdb
+C:\Users\my\Desktop\עידן\FMS_adapter\obj\Debug\FMS_adapter.csprojResolveAssemblyReference.cache
+C:\Users\guyava\Desktop\פולק וואאאוווווו\עידן\FMS_adapter\bin\Debug\FMS_adapter.dll.config
+C:\Users\guyava\Desktop\פולק וואאאוווווו\עידן\FMS_adapter\bin\Debug\FMS_adapter.dll
+C:\Users\guyava\Desktop\פולק וואאאוווווו\עידן\FMS_adapter\bin\Debug\FMS_adapter.pdb
+C:\Users\guyava\Desktop\פולק וואאאוווווו\עידן\FMS_adapter\obj\Debug\FMS_adapter.csprojResolveAssemblyReference.cache
+C:\Users\guyava\Desktop\פולק וואאאוווווו\עידן\FMS_adapter\obj\Debug\FMS_adapter.dll
+C:\Users\guyava\Desktop\פולק וואאאוווווו\עידן\FMS_adapter\obj\Debug\FMS_adapter.pdb
+C:\Users\my\Desktop\עידן+\עידן\FMS_adapter\bin\Debug\FMS_adapter.dll.config
+C:\Users\my\Desktop\עידן+\עידן\FMS_adapter\bin\Debug\FMS_adapter.dll
+C:\Users\my\Desktop\עידן+\עידן\FMS_adapter\bin\Debug\FMS_adapter.pdb
+C:\Users\my\Desktop\עידן+\עידן\FMS_adapter\obj\Debug\FMS_adapter.dll
+C:\Users\my\Desktop\עידן+\עידן\FMS_adapter\obj\Debug\FMS_adapter.pdb
+C:\Users\אליהו עזריאל פולק\Desktop\עידן+\עידן\FMS_adapter\bin\Debug\FMS_adapter.dll.config
+C:\Users\אליהו עזריאל פולק\Desktop\עידן+\עידן\FMS_adapter\bin\Debug\FMS_adapter.dll
+C:\Users\אליהו עזריאל פולק\Desktop\עידן+\עידן\FMS_adapter\bin\Debug\FMS_adapter.pdb
+C:\Users\אליהו עזריאל פולק\Desktop\עידן+\עידן\FMS_adapter\obj\Debug\FMS_adapter.dll
+C:\Users\אליהו עזריאל פולק\Desktop\עידן+\עידן\FMS_adapter\obj\Debug\FMS_adapter.pdb
+C:\Users\my\Desktop\עידן+\עידן\FMS_adapter\obj\Debug\FMS_adapter.csprojResolveAssemblyReference.cache
+E:\Dropbox\C# Projects\FMS Project\FMS_adapter\bin\Debug\FMS_adapter.dll.config
+E:\Dropbox\C# Projects\FMS Project\FMS_adapter\bin\Debug\FMS_adapter.dll
+E:\Dropbox\C# Projects\FMS Project\FMS_adapter\bin\Debug\FMS_adapter.pdb
+E:\Dropbox\C# Projects\FMS Project\FMS_adapter\obj\Debug\FMS_adapter.csprojResolveAssemblyReference.cache
+E:\Dropbox\C# Projects\FMS Project\FMS_adapter\obj\Debug\FMS_adapter.dll
+E:\Dropbox\C# Projects\FMS Project\FMS_adapter\obj\Debug\FMS_adapter.pdb

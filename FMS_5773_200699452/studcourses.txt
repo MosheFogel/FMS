@@ -1,0 +1,286 @@
+1000,1,Gorodetski,Rachel,solid state,52
+1005,1,Zalmanovitch,Sarah,c++,55
+1005,2,Zalmanovitch,Sarah,electricity,94
+1005,3,Zalmanovitch,Sarah,data structures,77
+1005,4,Zalmanovitch,Sarah,parallel algorithm analysis and design,81
+1005,5,Zalmanovitch,Sarah,solid state,50
+1005,6,Zalmanovitch,Sarah,semi-conductors,26
+1005,7,Zalmanovitch,Sarah,,14
+1110,1,Beneliyahu,Shmuel,data structures,16
+1110,2,Beneliyahu,Shmuel,electronics,83
+1110,3,Beneliyahu,Shmuel,compilers,25
+1110,4,Beneliyahu,Shmuel,general chemistry,11
+1110,5,Beneliyahu,Shmuel,sequential algorithm analysis and design,86
+1110,6,Beneliyahu,Shmuel,parallel algorithm analysis and design,39
+1110,7,Beneliyahu,Shmuel,software engineering,99
+1110,8,Beneliyahu,Shmuel,operating systems,67
+1115,1,Bouzaglo,Yossef,data structures,81
+1115,2,Bouzaglo,Yossef,logic programming,62
+1115,3,Bouzaglo,Yossef,operating systems,87
+1115,4,Bouzaglo,Yossef,sequential algorithm analysis and design,40
+1115,5,Bouzaglo,Yossef,semi-conductors,52
+1115,6,Bouzaglo,Yossef,classical mechanics,70
+1115,7,Bouzaglo,Yossef,algebra,70
+1115,8,Bouzaglo,Yossef,data structures,38
+1115,9,Bouzaglo,Yossef,discrete mathematics,42
+1115,10,Bouzaglo,Yossef,compilers,98
+1115,11,Bouzaglo,Yossef,software engineering,96
+1115,12,Bouzaglo,Yossef,file management systems,99
+1115,13,Bouzaglo,Yossef,c++,44
+1115,14,Bouzaglo,Yossef,solid state,95
+1115,15,Bouzaglo,Yossef,formal languages,14
+1115,16,Bouzaglo,Yossef,electronics,79
+1115,17,Bouzaglo,Yossef,economy and law,35
+1115,18,Bouzaglo,Yossef,,33
+1115,19,Bouzaglo,Yossef,principles of programming languages,47
+1115,20,Bouzaglo,Yossef,functional programming,67
+1115,21,Bouzaglo,Yossef,data bases,25
+1115,22,Bouzaglo,Yossef,parallel algorithm analysis and design,45
+1115,23,Bouzaglo,Yossef,general chemistry,53
+1115,24,Bouzaglo,Yossef,statistics,54
+1115,25,Bouzaglo,Yossef,parallel programming ,42
+1129,1,Cohen,Aharon,statistics,0
+1129,2,Cohen,Aharon,file management systems,80
+1129,3,Cohen,Aharon,parallel algorithm analysis and design,48
+1129,4,Cohen,Aharon,general chemistry,21
+1129,5,Cohen,Aharon,formal languages,57
+1129,6,Cohen,Aharon,functional programming,76
+1129,7,Cohen,Aharon,algebra,96
+1129,8,Cohen,Aharon,c++,24
+1129,9,Cohen,Aharon,economy and law,93
+1129,10,Cohen,Aharon,parallel programming ,91
+1129,11,Cohen,Aharon,data structures,62
+1129,12,Cohen,Aharon,data structures,90
+1129,13,Cohen,Aharon,solid state,38
+1129,14,Cohen,Aharon,logic programming,96
+1129,15,Cohen,Aharon,sequential algorithm analysis and design,35
+1129,16,Cohen,Aharon,electronics,96
+1129,17,Cohen,Aharon,semi-conductors,12
+1129,18,Cohen,Aharon,software engineering,25
+1200,1,Levy,Moshe,electronics,80
+1200,2,Levy,Moshe,classical mechanics,1
+1200,3,Levy,Moshe,logic programming,98
+1200,4,Levy,Moshe,file management systems,55
+1200,5,Levy,Moshe,electricity,67
+1200,6,Levy,Moshe,formal languages,91
+1200,7,Levy,Moshe,economy and law,92
+1200,8,Levy,Moshe,algebra,32
+1200,9,Levy,Moshe,c++,60
+1200,10,Levy,Moshe,general chemistry,68
+1200,11,Levy,Moshe,,34
+1200,12,Levy,Moshe,functional programming,52
+1200,13,Levy,Moshe,data bases,80
+1200,14,Levy,Moshe,parallel algorithm analysis and design,1
+1200,15,Levy,Moshe,principles of programming languages,73
+1200,16,Levy,Moshe,parallel programming ,18
+1200,17,Levy,Moshe,solid state,62
+1200,18,Levy,Moshe,data structures,18
+1200,19,Levy,Moshe,compilers,94
+1200,20,Levy,Moshe,statistics,47
+1200,21,Levy,Moshe,data structures,44
+1250,1,Goldberg,Avital,discrete mathematics,81
+1250,2,Goldberg,Avital,classical mechanics,73
+1250,3,Goldberg,Avital,compilers,49
+1250,4,Goldberg,Avital,file management systems,19
+1250,5,Goldberg,Avital,principles of programming languages,30
+1250,6,Goldberg,Avital,logic programming,52
+1250,7,Goldberg,Avital,economy and law,62
+1250,8,Goldberg,Avital,functional programming,55
+1250,9,Goldberg,Avital,data structures,22
+1250,10,Goldberg,Avital,data structures,17
+1250,11,Goldberg,Avital,parallel programming ,38
+1250,12,Goldberg,Avital,,6
+1250,13,Goldberg,Avital,intro to computer science,4
+1250,14,Goldberg,Avital,statistics,89
+1250,15,Goldberg,Avital,operating systems,7
+1250,16,Goldberg,Avital,data bases,74
+1250,17,Goldberg,Avital,solid state,43
+1250,18,Goldberg,Avital,software engineering,5
+1250,19,Goldberg,Avital,semi-conductors,42
+1250,20,Goldberg,Avital,general chemistry,39
+1250,21,Goldberg,Avital,sequential algorithm analysis and design,69
+1250,22,Goldberg,Avital,algebra,88
+1250,23,Goldberg,Avital,formal languages,38
+1250,24,Goldberg,Avital,electronics,47
+1250,25,Goldberg,Avital,electricity,38
+1250,26,Goldberg,Avital,c++,84
+1329,1,Amihud,Yoram,discrete mathematics,60
+1329,2,Amihud,Yoram,solid state,83
+1329,3,Amihud,Yoram,parallel programming ,94
+1329,4,Amihud,Yoram,electricity,22
+1329,5,Amihud,Yoram,classical mechanics,34
+1329,6,Amihud,Yoram,data structures,78
+1329,7,Amihud,Yoram,algebra,83
+1329,8,Amihud,Yoram,general chemistry,73
+1329,9,Amihud,Yoram,sequential algorithm analysis and design,80
+1329,10,Amihud,Yoram,software engineering,85
+1329,11,Amihud,Yoram,operating systems,47
+1329,12,Amihud,Yoram,economy and law,22
+1329,13,Amihud,Yoram,functional programming,24
+1329,14,Amihud,Yoram,formal languages,38
+1329,15,Amihud,Yoram,data structures,80
+1329,16,Amihud,Yoram,parallel algorithm analysis and design,39
+1329,17,Amihud,Yoram,c++,40
+1329,18,Amihud,Yoram,file management systems,36
+1329,19,Amihud,Yoram,semi-conductors,43
+1329,20,Amihud,Yoram,intro to computer science,76
+1329,21,Amihud,Yoram,,8
+1329,22,Amihud,Yoram,electronics,60
+1329,23,Amihud,Yoram,logic programming,63
+1450,1,Amichai,Avishai,principles of programming languages,83
+1450,2,Amichai,Avishai,discrete mathematics,74
+1450,3,Amichai,Avishai,economy and law,82
+1450,4,Amichai,Avishai,data bases,21
+1450,5,Amichai,Avishai,classical mechanics,30
+1450,6,Amichai,Avishai,statistics,17
+1450,7,Amichai,Avishai,logic programming,85
+1450,8,Amichai,Avishai,c++,90
+1450,9,Amichai,Avishai,data structures,2
+1450,10,Amichai,Avishai,formal languages,65
+1450,11,Amichai,Avishai,semi-conductors,89
+1450,12,Amichai,Avishai,algebra,69
+1450,13,Amichai,Avishai,solid state,58
+1450,14,Amichai,Avishai,software engineering,0
+1450,15,Amichai,Avishai,sequential algorithm analysis and design,6
+1450,16,Amichai,Avishai,intro to computer science,8
+1450,17,Amichai,Avishai,parallel programming ,97
+1450,18,Amichai,Avishai,compilers,12
+1450,19,Amichai,Avishai,data structures,38
+1520,1,Asherstein,Gabriel,classical mechanics,91
+1520,2,Asherstein,Gabriel,algebra,33
+1520,3,Asherstein,Gabriel,,0
+1520,4,Asherstein,Gabriel,economy and law,39
+1520,5,Asherstein,Gabriel,data structures,19
+1520,6,Asherstein,Gabriel,solid state,72
+1520,7,Asherstein,Gabriel,formal languages,37
+1520,8,Asherstein,Gabriel,software engineering,55
+1520,9,Asherstein,Gabriel,discrete mathematics,85
+1520,10,Asherstein,Gabriel,data bases,100
+1520,11,Asherstein,Gabriel,operating systems,34
+1520,12,Asherstein,Gabriel,parallel algorithm analysis and design,30
+1520,13,Asherstein,Gabriel,semi-conductors,62
+1520,14,Asherstein,Gabriel,electricity,36
+1520,15,Asherstein,Gabriel,electronics,72
+1520,16,Asherstein,Gabriel,parallel programming ,25
+1520,17,Asherstein,Gabriel,statistics,45
+1520,18,Asherstein,Gabriel,data structures,63
+1520,19,Asherstein,Gabriel,sequential algorithm analysis and design,93
+1520,20,Asherstein,Gabriel,c++,5
+1520,21,Asherstein,Gabriel,principles of programming languages,30
+1520,22,Asherstein,Gabriel,logic programming,87
+1520,23,Asherstein,Gabriel,compilers,65
+1520,24,Asherstein,Gabriel,intro to computer science,76
+1520,25,Asherstein,Gabriel,file management systems,76
+1520,26,Asherstein,Gabriel,general chemistry,75
+1520,27,Asherstein,Gabriel,functional programming,18
+1600,1,Ventura,Jack,economy and law,84
+1600,2,Ventura,Jack,functional programming,91
+1600,3,Ventura,Jack,data bases,8
+1600,4,Ventura,Jack,algebra,26
+1600,5,Ventura,Jack,solid state,0
+1600,6,Ventura,Jack,semi-conductors,46
+1600,7,Ventura,Jack,c++,58
+1600,8,Ventura,Jack,file management systems,42
+1600,9,Ventura,Jack,logic programming,29
+1600,10,Ventura,Jack,statistics,40
+1600,11,Ventura,Jack,compilers,22
+1615,1,Goldmann,Rifka,sequential algorithm analysis and design,58
+1615,2,Goldmann,Rifka,statistics,34
+1615,3,Goldmann,Rifka,general chemistry,29
+1615,4,Goldmann,Rifka,economy and law,91
+1615,5,Goldmann,Rifka,file management systems,30
+1615,6,Goldmann,Rifka,intro to computer science,39
+1615,7,Goldmann,Rifka,data structures,44
+1615,8,Goldmann,Rifka,functional programming,72
+1615,9,Goldmann,Rifka,discrete mathematics,5
+1615,10,Goldmann,Rifka,data structures,58
+1615,11,Goldmann,Rifka,parallel programming ,54
+1615,12,Goldmann,Rifka,semi-conductors,19
+1615,13,Goldmann,Rifka,c++,41
+1615,14,Goldmann,Rifka,formal languages,3
+1615,15,Goldmann,Rifka,classical mechanics,9
+1615,16,Goldmann,Rifka,solid state,27
+1615,17,Goldmann,Rifka,algebra,34
+1615,18,Goldmann,Rifka,electronics,11
+1700,1,Zehavi,Yaacov,electronics,72
+1700,2,Zehavi,Yaacov,file management systems,96
+1700,3,Zehavi,Yaacov,solid state,46
+1700,4,Zehavi,Yaacov,c++,97
+1700,5,Zehavi,Yaacov,economy and law,18
+1700,6,Zehavi,Yaacov,statistics,31
+1700,7,Zehavi,Yaacov,,74
+1700,8,Zehavi,Yaacov,functional programming,81
+1700,9,Zehavi,Yaacov,data bases,34
+1700,10,Zehavi,Yaacov,principles of programming languages,96
+1700,11,Zehavi,Yaacov,parallel algorithm analysis and design,1
+1700,12,Zehavi,Yaacov,formal languages,60
+1700,13,Zehavi,Yaacov,sequential algorithm analysis and design,90
+1700,14,Zehavi,Yaacov,intro to computer science,75
+1700,15,Zehavi,Yaacov,classical mechanics,8
+1700,16,Zehavi,Yaacov,logic programming,23
+1700,17,Zehavi,Yaacov,general chemistry,72
+1750,1,Benprat,Yechiel,intro to computer science,4
+1750,2,Benprat,Yechiel,general chemistry,43
+1750,3,Benprat,Yechiel,logic programming,27
+1750,4,Benprat,Yechiel,compilers,14
+1750,5,Benprat,Yechiel,formal languages,29
+1750,6,Benprat,Yechiel,statistics,95
+1750,7,Benprat,Yechiel,functional programming,43
+1750,8,Benprat,Yechiel,sequential algorithm analysis and design,26
+1750,9,Benprat,Yechiel,data bases,23
+1750,10,Benprat,Yechiel,data structures,14
+1750,11,Benprat,Yechiel,electricity,15
+1750,12,Benprat,Yechiel,,62
+1750,13,Benprat,Yechiel,parallel programming ,91
+1750,14,Benprat,Yechiel,discrete mathematics,99
+1750,15,Benprat,Yechiel,semi-conductors,66
+1750,16,Benprat,Yechiel,economy and law,76
+1750,17,Benprat,Yechiel,file management systems,20
+1750,18,Benprat,Yechiel,classical mechanics,62
+1750,19,Benprat,Yechiel,operating systems,77
+1750,20,Benprat,Yechiel,solid state,79
+1750,21,Benprat,Yechiel,software engineering,18
+1780,1,Goldenberg,Yehuda,data bases,99
+1780,2,Goldenberg,Yehuda,parallel programming ,3
+1780,3,Goldenberg,Yehuda,semi-conductors,36
+1780,4,Goldenberg,Yehuda,functional programming,67
+1780,5,Goldenberg,Yehuda,discrete mathematics,100
+1780,6,Goldenberg,Yehuda,compilers,37
+1780,7,Goldenberg,Yehuda,algebra,37
+1780,8,Goldenberg,Yehuda,sequential algorithm analysis and design,27
+1780,9,Goldenberg,Yehuda,economy and law,82
+1780,10,Goldenberg,Yehuda,data structures,52
+1780,11,Goldenberg,Yehuda,principles of programming languages,47
+1780,12,Goldenberg,Yehuda,formal languages,16
+1780,13,Goldenberg,Yehuda,file management systems,60
+1780,14,Goldenberg,Yehuda,operating systems,10
+1800,1,Bardaat,Ofira,parallel algorithm analysis and design,62
+1800,2,Bardaat,Ofira,electricity,16
+1800,3,Bardaat,Ofira,economy and law,55
+1800,4,Bardaat,Ofira,sequential algorithm analysis and design,37
+1800,5,Bardaat,Ofira,parallel programming ,49
+1800,6,Bardaat,Ofira,classical mechanics,16
+1800,7,Bardaat,Ofira,data structures,71
+1800,8,Bardaat,Ofira,functional programming,95
+1800,9,Bardaat,Ofira,file management systems,17
+1809,1,Bar Giora,Daniel,economy and law,67
+1809,2,Bar Giora,Daniel,functional programming,86
+1809,3,Bar Giora,Daniel,discrete mathematics,35
+1850,1,Azoulay,Assaf,compilers,62
+1850,2,Azoulay,Assaf,formal languages,25
+1850,3,Azoulay,Assaf,intro to computer science,80
+1900,1,Suissa,Irit,statistics,80
+1900,2,Suissa,Irit,parallel algorithm analysis and design,21
+1900,3,Suissa,Irit,principles of programming languages,79
+1900,4,Suissa,Irit,formal languages,17
+1900,5,Suissa,Irit,data structures,47
+1900,6,Suissa,Irit,electricity,50
+1900,7,Suissa,Irit,algebra,26
+1900,8,Suissa,Irit,data bases,92
+1900,9,Suissa,Irit,logic programming,56
+1920,1,Tahar,Amiel,data structures,50
+1920,2,Tahar,Amiel,sequential algorithm analysis and design,32
+1920,3,Tahar,Amiel,statistics,80
+1920,4,Tahar,Amiel,economy and law,53
+1920,5,Tahar,Amiel,functional programming,45
+1920,6,Tahar,Amiel,solid state,82

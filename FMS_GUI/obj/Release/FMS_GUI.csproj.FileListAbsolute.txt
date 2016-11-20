@@ -1,0 +1,15 @@
+C:\Users\guyava\Desktop\פרוייקט שלב 3\FMS_GUI\bin\Release\FMS_GUI.exe.config
+C:\Users\guyava\Desktop\פרוייקט שלב 3\FMS_GUI\bin\Release\FMS_GUI.exe
+C:\Users\guyava\Desktop\פרוייקט שלב 3\FMS_GUI\bin\Release\FMS_GUI.pdb
+C:\Users\guyava\Desktop\פרוייקט שלב 3\FMS_GUI\bin\Release\FMS_adapter.dll
+C:\Users\guyava\Desktop\פרוייקט שלב 3\FMS_GUI\bin\Release\FMS_adapter.pdb
+C:\Users\guyava\Desktop\פרוייקט שלב 3\FMS_GUI\obj\Release\FMS_GUI.csprojResolveAssemblyReference.cache
+C:\Users\guyava\Desktop\פרוייקט שלב 3\FMS_GUI\obj\Release\FMS_GUI.Form1.resources
+C:\Users\guyava\Desktop\פרוייקט שלב 3\FMS_GUI\obj\Release\FMS_GUI.new_file.resources
+C:\Users\guyava\Desktop\פרוייקט שלב 3\FMS_GUI\obj\Release\FMS_GUI.open.resources
+C:\Users\guyava\Desktop\פרוייקט שלב 3\FMS_GUI\obj\Release\FMS_GUI.Properties.Resources.resources
+C:\Users\guyava\Desktop\פרוייקט שלב 3\FMS_GUI\obj\Release\FMS_GUI.Rec_Read.resources
+C:\Users\guyava\Desktop\פרוייקט שלב 3\FMS_GUI\obj\Release\FMS_GUI.rec_write.resources
+C:\Users\guyava\Desktop\פרוייקט שלב 3\FMS_GUI\obj\Release\FMS_GUI.csproj.GenerateResource.Cache
+C:\Users\guyava\Desktop\פרוייקט שלב 3\FMS_GUI\obj\Release\FMS_GUI.exe
+C:\Users\guyava\Desktop\פרוייקט שלב 3\FMS_GUI\obj\Release\FMS_GUI.pdb

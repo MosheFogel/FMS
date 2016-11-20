@@ -1,0 +1,73 @@
+﻿Build started 18/07/2013 10:48:54.
+     1>Project "C:\Users\my\Desktop\עידן+\עידן\FMS_5773_200699452\FMS_5773_200699452.vcxproj" on node 3 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt hashfile.cpp HashValue.cpp LogicalBlock.cpp LogicalFileHeader.cpp main.cpp PhysicalBlockclass.cpp PhysicalFileClass.cpp
+         PhysicalFileClass.cpp
+     1>c:\users\my\desktop\עידן+\עידן\fms_5773_200699452\physicalfileclass.cpp(72): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\my\desktop\עידן+\עידן\fms_5773_200699452\physicalfileclass.cpp(202): warning C4018: '>' : signed/unsigned mismatch
+         PhysicalBlockclass.cpp
+         main.cpp
+     1>c:\users\my\desktop\עידן+\עידן\fms_5773_200699452\main.cpp(39): warning C4520: 'Student' : multiple default constructors specified
+     1>c:\users\my\desktop\עידן+\עידן\fms_5773_200699452\main.cpp(210): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\my\desktop\עידן+\עידן\fms_5773_200699452\main.cpp(213): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>c:\users\my\desktop\עידן+\עידן\fms_5773_200699452\main.cpp(232): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\my\desktop\עידן+\עידן\fms_5773_200699452\main.cpp(360): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\my\desktop\עידן+\עידן\fms_5773_200699452\main.cpp(371): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\my\desktop\עידן+\עידן\fms_5773_200699452\main.cpp(374): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\my\desktop\עידן+\עידן\fms_5773_200699452\main.cpp(451): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+         LogicalFileHeader.cpp
+         LogicalBlock.cpp
+         HashValue.cpp
+     1>c:\users\my\desktop\עידן+\עידן\fms_5773_200699452\hashvalue.cpp(162): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         hashfile.cpp
+     1>c:\users\my\desktop\עידן+\עידן\fms_5773_200699452\hashfile.cpp(106): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\my\desktop\עידן+\עידן\fms_5773_200699452\hashfile.cpp(112): warning C4996: '_strdate': This function or variable may be unsafe. Consider using _strdate_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\time.h(177) : see declaration of '_strdate'
+     1>c:\users\my\desktop\עידן+\עידן\fms_5773_200699452\hashfile.cpp(113): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\my\desktop\עידן+\עידן\fms_5773_200699452\hashfile.cpp(116): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\my\desktop\עידן+\עידן\fms_5773_200699452\hashfile.cpp(117): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\my\desktop\עידן+\עידן\fms_5773_200699452\hashfile.cpp(136): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\my\desktop\עידן+\עידן\fms_5773_200699452\hashfile.cpp(140): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\my\desktop\עידן+\עידן\fms_5773_200699452\hashfile.cpp(279): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\my\desktop\עידן+\עידן\fms_5773_200699452\hashfile.cpp(303): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\my\desktop\עידן+\עידן\fms_5773_200699452\hashfile.cpp(304): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\my\desktop\עידן+\עידן\fms_5773_200699452\hashfile.cpp(328): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\my\desktop\עידן+\עידן\fms_5773_200699452\hashfile.cpp(329): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\my\desktop\עידן+\עידן\fms_5773_200699452\hashfile.cpp(471): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\my\desktop\עידן+\עידן\fms_5773_200699452\hashfile.cpp(477): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\my\desktop\עידן+\עידן\fms_5773_200699452\hashfile.cpp(587): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\my\desktop\עידן+\עידן\fms_5773_200699452\hashfile.cpp(697): warning C4101: 'kay_local' : unreferenced local variable
+     1>c:\users\my\desktop\עידן+\עידן\fms_5773_200699452\hashfile.cpp(771): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\my\desktop\עידן+\עידן\fms_5773_200699452\hashfile.cpp(802): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+     1>c:\users\my\desktop\עידן+\עידן\fms_5773_200699452\hashfile.cpp(865): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\my\desktop\עידן+\עידן\fms_5773_200699452\hashfile.cpp(885): warning C4018: '<' : signed/unsigned mismatch
+         Generating Code...
+     1>c:\users\my\desktop\עידן+\עידן\fms_5773_200699452\hashfile.cpp(660): warning C4715: 'hashfile::Check_If_Key_Is_In_This_Block' : not all control paths return a value
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"C:\Users\my\Desktop\עידן+\עידן\Debug\FMS_5773_200699452.lib" /NOLOGO Debug\hashfile.obj
+         Debug\HashValue.obj
+         Debug\LogicalBlock.obj
+         Debug\LogicalFileHeader.obj
+         Debug\main.obj
+         Debug\PhysicalBlockclass.obj
+         Debug\PhysicalFileClass.obj
+         FMS_5773_200699452.vcxproj -> C:\Users\my\Desktop\עידן+\עידן\Debug\FMS_5773_200699452.lib
+     1>Done Building Project "C:\Users\my\Desktop\עידן+\עידן\FMS_5773_200699452\FMS_5773_200699452.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:12.80

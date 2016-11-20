@@ -1,0 +1,42 @@
+﻿  hashfile.cpp
+hashfile.cpp(76): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+hashfile.cpp(81): warning C4996: '_strdate': This function or variable may be unsafe. Consider using _strdate_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.h(177) : see declaration of '_strdate'
+hashfile.cpp(82): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+hashfile.cpp(85): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+hashfile.cpp(86): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+hashfile.cpp(105): warning C4018: '<' : signed/unsigned mismatch
+hashfile.cpp(110): warning C4018: '<' : signed/unsigned mismatch
+hashfile.cpp(216): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+hashfile.cpp(234): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+hashfile.cpp(249): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+hashfile.cpp(250): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+hashfile.cpp(325): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+hashfile.cpp(374): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+hashfile.cpp(467): warning C4018: '<' : signed/unsigned mismatch
+  HashValue.cpp
+HashValue.cpp(162): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+  LogicalBlock.cpp
+  LogicalFileHeader.cpp
+  main.cpp
+main.cpp(39): warning C4520: 'Student' : multiple default constructors specified
+main.cpp(214): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+main.cpp(219): warning C4553: '==' : operator has no effect; did you intend '='?
+main.cpp(236): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+main.cpp(324): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+  PhysicalBlockclass.cpp
+  PhysicalFileClass.cpp
+PhysicalFileClass.cpp(69): warning C4018: '<' : signed/unsigned mismatch
+PhysicalFileClass.cpp(173): warning C4018: '>' : signed/unsigned mismatch
+  Generating code
+  Finished generating code
+  FMS_5773_200699452.vcxproj -> C:\Users\my\Desktop\פרוייקט שלב 1\Release\FMS_5773_200699452.exe

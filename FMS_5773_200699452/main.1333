@@ -1,0 +1,387 @@
+#pragma once
+#include <iostream>
+#include <string>
+#include<sstream>
+#include <list>
+#include <fstream>
+#include"PhysicalBlockclass.h"
+#include"PhysicalFileClass.h"
+#include "CurrBlock.h"
+#include"hashfile.h"
+#include"HashValue.h"
+#include"LogicalBlock.h"
+#include"LogicalFileHeader.h"
+#include <conio.h>
+#include <windows.h>
+using namespace std;
+
+// class for each student from the txt file
+class Student
+{
+public:
+	string fname;
+	string lname;
+	int grade;
+	string cours_name;
+	int id;
+	int reg_nr;
+	Student(){};
+	Student(string f="",string l="",string cn="",int g=0,int i=0,int rn=0)
+	{
+		fname=f;
+		lname=l;
+		grade=g;
+		id=i;
+		cours_name=cn;
+		reg_nr=rn;
+	}
+
+};
+
+void insertToBlock(list<Student>sli ,hashfile &myFiles);
+
+//list of the all student structure of its fields
+list<Student>tmp()
+{
+	list<Student>sl;
+	string str;
+	ifstream infile;
+	infile.open ("studcourses.txt");
+	while(!infile.eof()) // To get you all the lines.
+	{
+		int tmp1;
+		getline(infile,str); // Saves the line in STRING.
+		//cout<<STRING; // Prints our STRING.
+		string fname="";
+		string lname="";
+		int grade=0;
+		string cours_name="";
+		int id=0;
+		int reg_nr=0;
+		list<string> tmp;
+		int x= str.find(',');
+		id = atoi(str.substr(0,4).c_str());
+		int x2 =str.find(',',x+1);
+		tmp1=(x2-x);
+		reg_nr= atoi(str.substr(x+1,tmp1).c_str());
+		x = str.find(',',x2+1);
+		tmp1 =(x-x2);
+		lname= str.substr(x2+1,tmp1-1);
+		x2 =str.find(',',x+1);
+		tmp1= (x2-x);
+		fname =str.substr(x+1,tmp1-1);
+		x = str.find(',',x2+1);
+		tmp1 =(x-x2);
+		cours_name = str.substr(x2+1,tmp1-1);
+		x2 =str.find(',',x+1);
+		tmp1= (x2-x);
+		grade = atoi(str.substr(x+1,tmp1-1).c_str());
+		Student t(fname,lname,cours_name,grade,id,reg_nr);
+		sl.push_back(t);			
+	}
+	infile.close();
+	return sl;
+}
+
+void main()
+{
+	string g = "1005,4,Zalmanovitch,Sarah,parallel algorithm analysis and design,81";
+
+	int size=289;
+	list<Student>student_list;
+	student_list=tmp();
+	int a = 0;
+	PhysicalFile File;
+	hashfile MyFiles;
+	
+	while(true)
+	{
+		try
+		{
+			cout<<"\t\t ****MAIN**** \n";
+			cout<<"1. Create logical File. \n";
+			cout<<"2. Open file \n";
+			cout<<"3. Close file\n";
+			cout<<"4. Delete file\n";
+			cout<<"5. Read daata from a spacific Block \n";
+			cout<<"6. Write data to a specific Block \n";
+			cout<<"7. insert the txt file in hash file \n";
+			cout<<"8. Write a record in file\n";
+			cout<<"9. Read a record feo  file \n";
+			cout<<"13.Get the best Hash function from all the given 10\n";
+			cout<<"10. EXIT\n";
+			cout<<"11 New Test File\n";
+			cout<<"12 Open Test File Test\n";
+
+			cin>>a;
+			system("cls");
+			switch(a)
+			{
+				case 13:
+					{
+						string FILE_NAME_EXPORT="";
+						string Owner="";
+						int Record_lenght=0;
+						int BlockNR=0;
+						cout << "Please enter file name.\n"
+							<<"at the end of the proccess 10 files will be created!\n"
+							<< "each one using a different hash function.\n"
+							<<"the program will show you the best one\n";
+						cin  >> FILE_NAME_EXPORT;
+						string tmp= FILE_NAME_EXPORT;
+						cout << "Pleae enter owner name\n";
+						cin >> Owner;
+						cout << "Pleae enter record lenght\n";
+						cin >>Record_lenght;
+						cout << "Pleae enter number of blocks\n";
+						cin>>BlockNR;
+						for(int i=1;i<=10;i++)
+						{
+							FILE_NAME_EXPORT = tmp;
+							FILE_NAME_EXPORT+="_FILE_NUMBER_";FILE_NAME_EXPORT+=MyFiles.IntToString(i);
+							MyFiles.hcreate(FILE_NAME_EXPORT,Owner,Record_lenght,"",BlockNR,0,"io",6,i);
+							MyFiles.hopen(FILE_NAME_EXPORT, Owner, "" ,"io"); 
+							insertToBlock(student_list,MyFiles);
+						}
+						break;
+					}
+			case 11:
+				{
+					MyFiles.hcreate("mos","eli",60,"",23,0,"io",6,1);
+					//MyFiles.hcreate(filename,username,recl,path,siz,keyloc,opmode,keyl,hushfuid);
+					//File.pcreate(filename , siz, path);
+					system("cls");
+					break;
+				}
+			case 12:
+				{
+					MyFiles.hopen("mos", "eli" , "" , "io");
+					//File.popen(filename,opmode,path);
+					system("cls");
+					break;
+				}
+			case 1:
+				{
+					string filename="" , path="", username="",opmode="";
+					int siz=0,choos=0,keyloc=0;
+					unsigned int recl=0,keyl=0,hushfuid=2; 
+					cout<<"Please enter file name: ";
+					cin>>filename;
+					cout<<"\nPlease enter the user name: ";
+					cin>>username;
+					cout<<"\nPlease enter the record's length: ";
+					cin>>recl;
+					cout << "\nPlease enter number of blocks (size file): ";
+					cin >> siz;
+					cout<<"\nPlease enter the key location: ";
+					cin>>keyloc;
+					cout<<"\nPlease enter your open mode (I or O or IO): ";
+					cin>>opmode;
+					cout<<"\nPlease enter the length of your key: ";
+					cin>>keyl;
+					cout << "\nDo you want to choose a diferent path? (1-NO , 2-YES):";
+					cin >> choos;
+					if(choos==2)
+					{
+						cout << "Please enter yout path\n";
+						cin>> path;
+					}
+					MyFiles.hcreate(filename,username,recl,path,siz,keyloc,opmode,keyl,hushfuid);
+					//File.pcreate(filename , siz, path);
+					system("cls");
+					break;
+				}
+			case 2:
+				{
+					int x;
+					string filename="" , path="" , opmode="" , username="";
+					cout<<" Please enter the file name\n";
+					cin>>filename;
+					cout<<" Please enter the user name\n";
+					cin>>username;
+					cout <<"Please enter open mode (I,O,IO)\n";
+					cin>>opmode;
+					cout << "Search file in this directory? (1-YES , 2-NO)";
+					cin>>x;
+					if(x==2)
+					{
+						cout << "PLease enter your path\n";
+						cin>>path;
+					}
+					MyFiles.hopen(filename, username , path , opmode);
+					//File.popen(filename,opmode,path);
+					system("cls");
+					break;
+
+				}
+			case 3:
+				{
+					//File.pclose();
+					MyFiles.hclose();
+					cout<<"The close done succesfully.\n";
+					system ("pause");
+					system("cls");
+					break;
+				}
+			case 4:
+				{
+					//File.pdelete();
+					MyFiles.hdelete();
+					system("cls");
+					break;
+				}
+			case 5:
+				{
+					int blocknum;
+					cout<<"Please enter the block number\n";
+					cin>>blocknum;
+					//File.SeekToBlock(blocknum);
+					//File.readBlock();
+					MyFiles.MyFile.SeekToBlock(blocknum);
+					MyFiles.MyFile.readBlock();
+					string my_string(MyFiles.MyFile.cb.Buffer.data);
+					//string my_string;
+					//memcpy(&my_string , MyFiles.MyFile.cb.Buffer.data,1000);
+					//for(int i=0;i<35;++i){cout << "\b";}
+					cout<<"data in block number "<< blocknum<< " is: "<<my_string <<endl;
+					system ("pause");
+					break;
+
+				}
+			case 6:
+				{
+					unsigned int nr=0;
+					string writ="";
+					cout<<"Please enter the block number which you want to right into. \n";
+					cin>>nr;
+					cout<<"Now, Please enter your data.\n";
+					cin>>writ;
+					//strcpy(File.cb.Buffer.data, writ.c_str());
+					strcpy(MyFiles.MyFile.cb.Buffer.data ,writ.c_str()); 
+					//File.SeekToBlock(nr);
+					//File.writeBlock();
+					MyFiles.MyFile.SeekToBlock(nr);
+					MyFiles.MyFile.writeBlock();
+					MyFiles.LBuffChanged==true;
+					break;
+
+				}
+			case 7:
+				{
+					insertToBlock(student_list, MyFiles);
+					break;
+				}
+			case 8:
+				{
+					int choise, tmp2;
+					string tmp1,record;
+					char* tmp=new char [MyFiles.LogicalFHBuffer->KeySize];
+					char* Record=new char [MyFiles.LogicalFHBuffer->RecordSize];
+					cout<<"Please enter your record: ";
+					cin>>record;
+					strcpy(Record,record.c_str());
+					cout<<"Please enter the tipe of your key:\n1-int\n2-c string\n3-string\n";
+					cin>>choise;
+					cout<<"Please enter your key:";
+					switch (choise)
+					{
+					  case 1:
+						  {
+							  cin>>tmp2;
+                              MyFiles.write(tmp2,Record);
+							  break;
+						  }
+					  case 2:
+						  {
+							  cin>>tmp;
+                              MyFiles.write(tmp,Record);
+							  break;
+						  }
+					  case 3:
+						  {
+							  cin>>tmp1;
+                              MyFiles.write(tmp1,Record);
+							  break;
+						  }
+					}
+					break;
+				}
+			case 9:
+				{
+					int Key_rec=0;
+					char* F= new char[MyFiles.LogicalFHBuffer->RecordSize] ;
+					cout<<"Enter The Key number of your record! \n";
+					cin>> Key_rec;
+					MyFiles.read(Key_rec , F,0);
+					cout<<" The record is: \n";
+					cout<<F<<endl;;
+					break;
+				}
+			case 10:
+				{
+					system("cls");
+					cout << "Byebye.";
+					for(int i=0;i<4;++i)
+					{
+						Sleep(500);
+						cout << ".";
+					}				
+					exit(0);
+				}
+			default:
+				{
+					cout<<"ERROR !\n";
+					system("pause");
+					system("cls");
+					break;
+				}
+			}
+		}
+
+		catch(exception& exp)
+		{
+			cout<<"\n"<<exp.what()<<endl;
+			system("pause");
+			system("cls");
+		}
+
+	}
+}
+
+//insert all of the txt file into the hash file (write in file.hash)
+//הופך את הרשומה ל-string ואז מוצא את המפתח ומכניס את הרשומה + המפתח 
+void insertToBlock(list<Student>sli ,hashfile &myFiles)
+{
+	int A=0,a1=0,c=0,i=0;
+	int longrec[290];
+	string S="",T="";
+	char* str="";
+	list<Student>::iterator G;
+	int mone = 0;
+	for(G=sli.begin() ; G != sli.end() ; G++)
+	{
+		mone++;
+		if(mone==124)
+		{
+			cout<<"";
+		}
+		S="";
+		T="";
+		A=(*G).id;
+		a1=(*G).reg_nr;
+		T+=myFiles.IntToString(A);
+		T+=myFiles.IntToString(a1);
+		S+=myFiles.IntToString(A);
+		S+=myFiles.IntToString(a1);
+		S+=(*G).fname;
+		S+=(*G).lname;
+		S+=(*G).cours_name;
+		S+=myFiles.IntToString((*G).grade);
+		c=sizeof(S);
+		longrec[i+1]=c;  i++;
+		char* rec = new char[myFiles.LogicalFHBuffer->RecordSize];
+		strcpy(rec , S.c_str());
+		myFiles.write(T,rec);
+	}
+	cout<<"number of record "<<myFiles.LogicalFHBuffer->NrOfRecsInFile<<endl<<endl;
+}

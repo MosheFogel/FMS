@@ -1,0 +1,94 @@
+C:\Users\idan\Desktop\פרוייקט שלב  סופי 3\פרוייקט שלב 3\FMS_GUI\bin\Debug\FMS_GUI.exe.config
+C:\Users\idan\Desktop\פרוייקט שלב  סופי 3\פרוייקט שלב 3\FMS_GUI\bin\Debug\FMS_GUI.exe
+C:\Users\idan\Desktop\פרוייקט שלב  סופי 3\פרוייקט שלב 3\FMS_GUI\bin\Debug\FMS_GUI.pdb
+C:\Users\idan\Desktop\פרוייקט שלב  סופי 3\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.Properties.Resources.resources
+C:\Users\idan\Desktop\פרוייקט שלב  סופי 3\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.csproj.GenerateResource.Cache
+C:\Users\idan\Desktop\פרוייקט שלב  סופי 3\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.exe
+C:\Users\idan\Desktop\פרוייקט שלב  סופי 3\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.pdb
+C:\Users\guyava\Desktop\פרוייקט שלב 3\FMS_GUI\bin\Debug\FMS_GUI.exe.config
+C:\Users\guyava\Desktop\פרוייקט שלב 3\FMS_GUI\bin\Debug\FMS_GUI.exe
+C:\Users\guyava\Desktop\פרוייקט שלב 3\FMS_GUI\bin\Debug\FMS_GUI.pdb
+C:\Users\guyava\Desktop\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.csprojResolveAssemblyReference.cache
+C:\Users\guyava\Desktop\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.Properties.Resources.resources
+C:\Users\guyava\Desktop\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.csproj.GenerateResource.Cache
+C:\Users\guyava\Desktop\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.exe
+C:\Users\guyava\Desktop\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.pdb
+C:\Users\guyava\Desktop\פרוייקט שלב 3\FMS_GUI\bin\Debug\FMS_adapter.dll
+C:\Users\guyava\Desktop\פרוייקט שלב 3\FMS_GUI\bin\Debug\FMS_adapter.pdb
+C:\Users\guyava\Desktop\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.Form1.resources
+C:\Users\guyava\Desktop\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.new_file.resources
+C:\Users\guyava\Desktop\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.open.resources
+C:\Users\my\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\Aלב 4\פרוייקט שלב 3\FMS_GUI\bin\Debug\FMS_GUI.exe.config
+C:\Users\my\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\Aלב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.exe
+C:\Users\my\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\Aלב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.pdb
+C:\Users\idan\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\Aלב 4\פרוייקט שלב 3\FMS_GUI\bin\Debug\FMS_GUI.exe.config
+C:\Users\idan\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\Aלב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.exe
+C:\Users\idan\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\Aלב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.pdb
+C:\Users\my\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\Aלב 4\פרוייקט שלב 3\FMS_GUI\bin\Debug\FMS_GUI.exe
+C:\Users\my\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\Aלב 4\פרוייקט שלב 3\FMS_GUI\bin\Debug\FMS_GUI.pdb
+C:\Users\my\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\Aלב 4\פרוייקט שלב 3\FMS_GUI\bin\Debug\FMS_adapter.dll
+C:\Users\my\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\Aלב 4\פרוייקט שלב 3\FMS_GUI\bin\Debug\FMS_adapter.pdb
+C:\Users\my\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\Aלב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.csprojResolveAssemblyReference.cache
+C:\Users\my\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\Aלב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.Form1.resources
+C:\Users\my\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\Aלב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.new_file.resources
+C:\Users\my\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\Aלב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.open.resources
+C:\Users\my\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\Aלב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.Properties.Resources.resources
+C:\Users\my\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\Aלב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.csproj.GenerateResource.Cache
+C:\Users\my\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\bin\Debug\FMS_GUI.exe.config
+C:\Users\my\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\bin\Debug\FMS_GUI.exe
+C:\Users\my\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\bin\Debug\FMS_GUI.pdb
+C:\Users\my\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\bin\Debug\FMS_adapter.dll
+C:\Users\my\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\bin\Debug\FMS_adapter.pdb
+C:\Users\my\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.csprojResolveAssemblyReference.cache
+C:\Users\my\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.Form1.resources
+C:\Users\my\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.new_file.resources
+C:\Users\my\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.open.resources
+C:\Users\my\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.Properties.Resources.resources
+C:\Users\my\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.csproj.GenerateResource.Cache
+C:\Users\my\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.exe
+C:\Users\my\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.pdb
+C:\Users\idan\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\bin\Debug\FMS_GUI.exe.config
+C:\Users\idan\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\bin\Debug\FMS_GUI.exe
+C:\Users\idan\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\bin\Debug\FMS_GUI.pdb
+C:\Users\idan\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\bin\Debug\FMS_adapter.dll
+C:\Users\idan\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\bin\Debug\FMS_adapter.pdb
+C:\Users\idan\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.Form1.resources
+C:\Users\idan\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.new_file.resources
+C:\Users\idan\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.open.resources
+C:\Users\idan\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.Properties.Resources.resources
+C:\Users\idan\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.csproj.GenerateResource.Cache
+C:\Users\idan\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.exe
+C:\Users\idan\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.pdb
+C:\Users\idan\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.csprojResolveAssemblyReference.cache
+C:\Users\idan\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.rec_write.resources
+C:\Users\idan\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.Rec_Read.resources
+C:\Users\guyava\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\bin\Debug\FMS_GUI.exe.config
+C:\Users\guyava\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\bin\Debug\FMS_GUI.exe
+C:\Users\guyava\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\bin\Debug\FMS_GUI.pdb
+C:\Users\guyava\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\bin\Debug\FMS_adapter.dll
+C:\Users\guyava\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\bin\Debug\FMS_adapter.pdb
+C:\Users\guyava\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.csprojResolveAssemblyReference.cache
+C:\Users\guyava\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.Form1.resources
+C:\Users\guyava\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.new_file.resources
+C:\Users\guyava\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.open.resources
+C:\Users\guyava\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.Properties.Resources.resources
+C:\Users\guyava\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.Rec_Read.resources
+C:\Users\guyava\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.rec_write.resources
+C:\Users\guyava\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.csproj.GenerateResource.Cache
+C:\Users\guyava\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.exe
+C:\Users\guyava\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.pdb
+C:\Users\אליהו עזריאל פולק\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\bin\Debug\FMS_GUI.exe.config
+C:\Users\אליהו עזריאל פולק\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\bin\Debug\FMS_GUI.exe
+C:\Users\אליהו עזריאל פולק\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\bin\Debug\FMS_GUI.pdb
+C:\Users\אליהו עזריאל פולק\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\bin\Debug\FMS_adapter.dll
+C:\Users\אליהו עזריאל פולק\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\bin\Debug\FMS_adapter.pdb
+C:\Users\אליהו עזריאל פולק\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.csprojResolveAssemblyReference.cache
+C:\Users\אליהו עזריאל פולק\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.Form1.resources
+C:\Users\אליהו עזריאל פולק\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.new_file.resources
+C:\Users\אליהו עזריאל פולק\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.open.resources
+C:\Users\אליהו עזריאל פולק\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.Properties.Resources.resources
+C:\Users\אליהו עזריאל פולק\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.Rec_Read.resources
+C:\Users\אליהו עזריאל פולק\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.rec_write.resources
+C:\Users\אליהו עזריאל פולק\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.csproj.GenerateResource.Cache
+C:\Users\אליהו עזריאל פולק\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.exe
+C:\Users\אליהו עזריאל פולק\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI\obj\Debug\FMS_GUI.pdb

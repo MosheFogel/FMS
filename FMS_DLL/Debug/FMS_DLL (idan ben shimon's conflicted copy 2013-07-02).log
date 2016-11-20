@@ -1,0 +1,76 @@
+﻿Build started 01/07/2013 22:59:59.
+     1>Project "C:\Users\idan\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_DLL\FMS_DLL.vcxproj" on node 3 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I../FMS_5773_200699452 /ZI /nologo /W3 /WX- /Od /Oy- /D _WINDLL /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt exportFunc.cpp
+         exportFunc.cpp
+     1>c:\users\idan\dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\fms_dll\exportfunc.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\idan\dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\fms_dll\exportfunc.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\idan\dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\fms_dll\exportfunc.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\idan\dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\fms_dll\exportfunc.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\idan\dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\fms_dll\exportfunc.cpp(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\idan\dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\fms_dll\exportfunc.cpp(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\idan\dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\fms_dll\exportfunc.cpp(7): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\idan\dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\fms_dll\exportfunc.cpp(45): warning C4297: 'int_to_string' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\idan\dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\fms_dll\exportfunc.cpp(58): warning C4297: 'hcreate' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\idan\dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\fms_dll\exportfunc.cpp(70): warning C4297: 'hdelete' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\idan\dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\fms_dll\exportfunc.cpp(82): warning C4297: 'hopen' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\idan\dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\fms_dll\exportfunc.cpp(94): warning C4297: 'hclose' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\idan\dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\fms_dll\exportfunc.cpp(106): warning C4297: 'flush' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\idan\dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\fms_dll\exportfunc.cpp(118): warning C4297: 'seek_with_char_star' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\idan\dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\fms_dll\exportfunc.cpp(130): warning C4297: 'seek_with_int' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\idan\dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\fms_dll\exportfunc.cpp(192): warning C4297: 'read' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\idan\dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\fms_dll\exportfunc.cpp(204): warning C4297: 'readByStringKey' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\idan\dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\fms_dll\exportfunc.cpp(217): warning C4297: 'write' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\idan\dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\fms_dll\exportfunc.cpp(229): warning C4297: 'writeByStringKey' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\idan\dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\fms_dll\exportfunc.cpp(243): warning C4297: 'Check_If_Key_Is_In_This_Block' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\idan\dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\fms_dll\exportfunc.cpp(255): warning C4297: 'helpseek' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\idan\dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\fms_dll\exportfunc.cpp(267): warning C4297: 'Check_free_space_In_Block' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\idan\dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\fms_dll\exportfunc.cpp(279): warning C4297: 'helpwrite' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\idan\dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\fms_dll\exportfunc.cpp(291): warning C4297: 'Del_rec_Casing' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\idan\dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\fms_dll\exportfunc.cpp(303): warning C4297: 'Delrec' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\idan\dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\fms_dll\exportfunc.cpp(315): warning C4297: 'Press_Bloak' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\idan\dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\fms_dll\exportfunc.cpp(327): warning C4297: 'Press_Block_OV' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\idan\dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\fms_dll\exportfunc.cpp(339): warning C4297: 'Serch_key_by_hash' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\idan\dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\fms_dll\exportfunc.cpp(351): warning C4297: 'Update' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\idan\dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\fms_dll\exportfunc.cpp(363): warning C4297: 'updateoff' : function assumed not to throw an exception but does
+                 The function is extern "C" and /EHc was specified
+     1>c:\users\idan\dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\fms_dll\exportfunc.cpp(47): warning C4715: 'int_to_string' : not all control paths return a value
+     1>c:\users\idan\dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\fms_dll\exportfunc.cpp(245): warning C4715: 'Check_If_Key_Is_In_This_Block' : not all control paths return a value
+     1>c:\users\idan\dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\fms_dll\exportfunc.cpp(269): warning C4715: 'Check_free_space_In_Block' : not all control paths return a value
+     1>c:\users\idan\dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\fms_dll\exportfunc.cpp(341): warning C4715: 'Serch_key_by_hash' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\idan\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\Debug\FMS_DLL.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\idan\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\Debug\FMS_DLL.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\idan\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\Debug\FMS_DLL.lib" /MACHINE:X86 /DLL Debug\exportFunc.obj
+         "C:\Users\idan\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\Debug\FMS_5773_200699452.lib"
+            Creating library C:\Users\idan\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\Debug\FMS_DLL.lib and object C:\Users\idan\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\Debug\FMS_DLL.exp
+         FMS_DLL.vcxproj -> C:\Users\idan\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\Debug\FMS_DLL.dll
+       PostBuildEvent:
+         copy "C:\Users\idan\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\Debug\FMS_DLL.dll" "C:\Users\idan\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_GUI.\bin\Debug"
+         :VCEnd
+                 1 file(s) copied.
+     1>Done Building Project "C:\Users\idan\Dropbox\פוגל & פולק\מיני פרוייקט ארגון וניהול כבשים\לב 4\פרוייקט שלב 3\FMS_DLL\FMS_DLL.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.84
